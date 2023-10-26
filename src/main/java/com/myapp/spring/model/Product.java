@@ -15,7 +15,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
  
-
+//First C
 @Entity
 @Table(name= "boot_products")
 
